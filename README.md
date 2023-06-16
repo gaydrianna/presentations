@@ -1,6 +1,8 @@
 # presentations
 This is a folder of my research presentation materials in varied venues.
 
+[SUNYLA_2023: Critical Information Literacy: Imaging Postcolonial Digital Humanities in Library Instruction Practice](https://gaydrianna.github.io/presentations/sunyla23.pdf)
+
 [DHSI_2023: Postcolonial Pedagogical Exploration of Open Mapping](https://gaydrianna.github.io/presentations/DHSI23mapping.pdf)
 Description: “Informed by Roopika Risam’s work in postcolonial digital humanities pedagogy, this presentation will explore a postcolonial approach to introducing the topic of digital mapping by shifting power and focusing on the ways that open mapping has expanded the digital cultural record. This presentation will highlight participatory mapping and explore the roots of this practice in the social survey movement with Jane Addams, Florence Kelly, and W.E.B. Du Bois’s work in maps. Exploring the significance of these projects lifts up the work of these humanists as well as reinforces their expansion of the digital cultural record in significant ways. We will discuss and explore digital maps, specifically street maps, and the projects that have propelled this democratization of the digital space in the field of digital humanities.
 
